@@ -1,0 +1,17 @@
+C:\ProjectNET\Prueba-Ingreso\DataLogic\bin\Debug\net6.0\DataLogic.deps.json
+C:\ProjectNET\Prueba-Ingreso\DataLogic\bin\Debug\net6.0\DataLogic.dll
+C:\ProjectNET\Prueba-Ingreso\DataLogic\bin\Debug\net6.0\DataLogic.pdb
+C:\ProjectNET\Prueba-Ingreso\DataLogic\bin\Debug\net6.0\DataAccess.dll
+C:\ProjectNET\Prueba-Ingreso\DataLogic\bin\Debug\net6.0\DataEntity.dll
+C:\ProjectNET\Prueba-Ingreso\DataLogic\bin\Debug\net6.0\DataAccess.pdb
+C:\ProjectNET\Prueba-Ingreso\DataLogic\bin\Debug\net6.0\DataEntity.pdb
+C:\ProjectNET\Prueba-Ingreso\DataLogic\obj\Debug\net6.0\DataLogic.csproj.AssemblyReference.cache
+C:\ProjectNET\Prueba-Ingreso\DataLogic\obj\Debug\net6.0\DataLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectNET\Prueba-Ingreso\DataLogic\obj\Debug\net6.0\DataLogic.AssemblyInfoInputs.cache
+C:\ProjectNET\Prueba-Ingreso\DataLogic\obj\Debug\net6.0\DataLogic.AssemblyInfo.cs
+C:\ProjectNET\Prueba-Ingreso\DataLogic\obj\Debug\net6.0\DataLogic.csproj.CoreCompileInputs.cache
+C:\ProjectNET\Prueba-Ingreso\DataLogic\obj\Debug\net6.0\DataLogic.csproj.CopyComplete
+C:\ProjectNET\Prueba-Ingreso\DataLogic\obj\Debug\net6.0\DataLogic.dll
+C:\ProjectNET\Prueba-Ingreso\DataLogic\obj\Debug\net6.0\refint\DataLogic.dll
+C:\ProjectNET\Prueba-Ingreso\DataLogic\obj\Debug\net6.0\DataLogic.pdb
+C:\ProjectNET\Prueba-Ingreso\DataLogic\obj\Debug\net6.0\ref\DataLogic.dll

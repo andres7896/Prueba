@@ -1,0 +1,12 @@
+C:\ProjectNET\Prueba-Ingreso\DataEntity\bin\Debug\net6.0\DataEntity.deps.json
+C:\ProjectNET\Prueba-Ingreso\DataEntity\bin\Debug\net6.0\DataEntity.dll
+C:\ProjectNET\Prueba-Ingreso\DataEntity\bin\Debug\net6.0\DataEntity.pdb
+C:\ProjectNET\Prueba-Ingreso\DataEntity\obj\Debug\net6.0\DataEntity.csproj.AssemblyReference.cache
+C:\ProjectNET\Prueba-Ingreso\DataEntity\obj\Debug\net6.0\DataEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectNET\Prueba-Ingreso\DataEntity\obj\Debug\net6.0\DataEntity.AssemblyInfoInputs.cache
+C:\ProjectNET\Prueba-Ingreso\DataEntity\obj\Debug\net6.0\DataEntity.AssemblyInfo.cs
+C:\ProjectNET\Prueba-Ingreso\DataEntity\obj\Debug\net6.0\DataEntity.csproj.CoreCompileInputs.cache
+C:\ProjectNET\Prueba-Ingreso\DataEntity\obj\Debug\net6.0\DataEntity.dll
+C:\ProjectNET\Prueba-Ingreso\DataEntity\obj\Debug\net6.0\refint\DataEntity.dll
+C:\ProjectNET\Prueba-Ingreso\DataEntity\obj\Debug\net6.0\DataEntity.pdb
+C:\ProjectNET\Prueba-Ingreso\DataEntity\obj\Debug\net6.0\ref\DataEntity.dll

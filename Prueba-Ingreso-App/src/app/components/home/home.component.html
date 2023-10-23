@@ -1,0 +1,9 @@
+<div class="mt-5 d-flex justify-content-center aling-item-center">
+  <div class="card" *ngFor="let empleado of empleados">
+    <div class="card-body">
+      <h5 class="card-title">{{empleado.nombre1+" "+empleado.nombre2+" "+empleado.apellido1+" "+empleado.apellido2}}</h5>
+      <p class="card-text">{{empleado.cargo.nombrecargo}}</p>
+      <small>{{empleado.salario.valor}}</small>
+    </div>
+  </div>
+</div>

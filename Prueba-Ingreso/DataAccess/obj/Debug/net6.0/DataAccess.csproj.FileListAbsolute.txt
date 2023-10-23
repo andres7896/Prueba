@@ -1,0 +1,15 @@
+C:\ProjectNET\Prueba-Ingreso\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\ProjectNET\Prueba-Ingreso\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\ProjectNET\Prueba-Ingreso\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\ProjectNET\Prueba-Ingreso\DataAccess\bin\Debug\net6.0\DataEntity.dll
+C:\ProjectNET\Prueba-Ingreso\DataAccess\bin\Debug\net6.0\DataEntity.pdb
+C:\ProjectNET\Prueba-Ingreso\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\ProjectNET\Prueba-Ingreso\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectNET\Prueba-Ingreso\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\ProjectNET\Prueba-Ingreso\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\ProjectNET\Prueba-Ingreso\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\ProjectNET\Prueba-Ingreso\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\ProjectNET\Prueba-Ingreso\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\ProjectNET\Prueba-Ingreso\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\ProjectNET\Prueba-Ingreso\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\ProjectNET\Prueba-Ingreso\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
